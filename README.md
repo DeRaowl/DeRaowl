@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @DeRaowl](https://twitter.com/DeRaowl) | [LinkedIn - @rahul-m](https://in.linkedin.com/in/rahul-m-504441141)
 - 😄 Pronouns: He/His
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeRaowl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=DeRaowl&&show_icons=true&title_color=39a9cb&icon_color=39a9cb&text_color=000&bg_color=fff">
 
