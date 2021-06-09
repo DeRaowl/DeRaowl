@@ -30,6 +30,6 @@ I'm Rahul. Currently working as an associate engineer.
   <summary><strong>GitHub Statistics</strong></summary>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeRaowl&theme=tokyonight" alt="Stats"/>
 </details>
------------
+
 <img src="https://github-readme-stats.vercel.app/api?username=DeRaowl&&show_icons=true&title_color=39a9cb&icon_color=39a9cb&text_color=000&bg_color=fff">
 
