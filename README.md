@@ -1,6 +1,6 @@
 ### 👋 Hola,
 
-I'm Rahul. Currently working as a associate engineer.
+I'm Rahul. Currently working as an associate engineer.
 
 ### 🧐 About Me
 <li>✍️Technical Blogger at <a href="https://dev.to/deraowl" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
