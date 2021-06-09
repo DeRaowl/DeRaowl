@@ -26,7 +26,7 @@ I'm Rahul. Currently working as an associate engineer.
 ![Express](https://img.shields.io/badge/-Express-grey?&style=for-the-badge&logo=express&logoColor=white)![Firebase](https://img.shields.io/badge/-Firebase-4c8bf5?&style=for-the-badge&&logo=firebase&logoColor=ffca28)![MongoDB](https://img.shields.io/badge/-MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=47A248)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
 <details>
-  <summary><h2>GitHub Statistics</h2></summary>
+  <summary>GitHub Statistics</summary>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeRaowl&theme=tokyonight" alt="Stats"/>
 </details>
 
