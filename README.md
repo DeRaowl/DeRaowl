@@ -1,6 +1,5 @@
-### 👋 Hola,
-
-I'm Rahul. Currently working as an associate engineer.
+<h1 align="center">Hola 👋, I'm Rahul Reddy</h1>
+<h3 align="center">I'm a Engineer Associate at RxLogix"</h3>
 
 ### 🧐 About Me
 <li>✍️Technical Blogger at <a href="https://dev.to/deraowl" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
